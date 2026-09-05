@@ -76,17 +76,13 @@ Ao se conectar à mesma rede que o ESP32, acesse o IP exibido no Monitor Serial 
    No código-fonte, substitua as credenciais de Wi-Fi pelos dados da sua rede:
    ```cpp
    const char *ssid     = "NOME_DA_SUA_REDE";
-   const char *password = "SENHA_DA_SUA_REDE";
-
-```
+   const char *password = "SENHA_DA_SUA_REDE";```
 
 3. **Upload:**
 * Conecte o ESP32 ao computador via cabo USB.
 * Selecione a placa **ESP32 Dev Module** e a porta COM correspondente.
 * Faça o upload do código.
 * Abra o **Monitor Serial** (115200 baud) para capturar o endereço IP atribuído.
-
-
 
 ---
 
