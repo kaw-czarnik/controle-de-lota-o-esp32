@@ -90,9 +90,6 @@ Ao se conectar à mesma rede que o ESP32, acesse o IP exibido no Monitor Serial 
 
 Projeto desenvolvido em equipe para aplicação de conceitos de IoT, eletrônica digital e sistemas em tempo real.
 
-```
 * **GitHub:** [@kaw-czarnik](https://www.google.com/search?q=https://github.com/kaw-czarnik)
 * **GitHub:** [@joaovcampos-dev](https://www.google.com/search?q=https://github.com/joaovcampos-dev)
 * **GitHub:** [@joaoBaratto](https://www.google.com/search?q=https://github.com/JoaoBaratto)
-
-```
